@@ -1,0 +1,490 @@
+('C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso Python\\Aula '
+ 'Final\\Projeto Final\\build\\Aplicação\\PYZ-00.pyz',
+ [('BackEnd',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso Python\\Aula '
+   'Final\\Projeto Final\\BackEnd.py',
+   'PYMODULE'),
+  ('GUI',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso Python\\Aula '
+   'Final\\Projeto Final\\GUI.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\csv.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._abc',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\pathlib\\_abc.py',
+   'PYMODULE'),
+  ('pathlib._local',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\pathlib\\_local.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\socket.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.__main__',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\sqlite3\\__main__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\jvlei.DESKTOP-805LJJK\\Documents\\Curso '
+   'Python\\Python\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE')])
