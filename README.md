@@ -2,7 +2,7 @@
 ### 🚀 Seu próximo Engenheiro de Software movido a paixão e inovação! 🚀
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrMIGJipjBAUvYF/giphy.gif" width="300" alt="GIF de Código e Lógica">
+  <img src="https://cdn.pixabay.com/animation/2024/05/07/06/57/06-57-07-12_512.gif" width="300" alt="To te vendo">
 </p>
 
 Seja muito bem-vindo(a) ao meu playground digital! 👋 Este repositório não é só um amontoado de arquivos; é a minha história ganhando vida em linhas de código. Aqui, cada projeto é um passo, cada certificado, uma conquista, e cada linha de texto, um convite para você explorar meu universo de **desenvolvimento de software e IA!**
