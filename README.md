@@ -2,7 +2,7 @@
 ### 🚀 Seu próximo Engenheiro de Software movido a paixão e inovação! 🚀
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2024/05/07/06/57/06-57-07-12_512.gif" width="300" alt="To te vendo">
+  <img src="https://cdn.pixabay.com/animation/2024/05/07/06/57/06-57-07-12_512.gif" width="300" alt="Código e Lógica">
 </p>
 
 Seja muito bem-vindo(a) ao meu playground digital! 👋 Este repositório não é só um amontoado de arquivos; é a minha história ganhando vida em linhas de código. Aqui, cada projeto é um passo, cada certificado, uma conquista, e cada linha de texto, um convite para você explorar meu universo de **desenvolvimento de software e IA!**
@@ -17,7 +17,7 @@ Atualmente, estou mergulhado de cabeça na **Engenharia de Software** na **Anhan
 
 Sou apaixonado por construir e resolver problemas com código. Minha stack principal inclui:
 
-* **Linguagens de Programação:** Python (minha paixão!), SQL
+* **Linguagens de Programação:** Python, SQL, HTML, CSS
 * **Frameworks/Bibliotecas:** Tkinter (GUI), Pygame (Desenvolvimento de Jogos), Ipywidgets (interfaces interativas)
 * **Bancos de Dados:** SQLite
 * **IA & Machine Learning:** Google Gemini API (modelos de linguagem, agentes de IA)
@@ -30,7 +30,7 @@ Sou apaixonado por construir e resolver problemas com código. Minha stack princ
 
 Acredito que a melhor forma de demonstrar conhecimento é através da prática. Conheça alguns dos meus projetos que representam minha evolução e minhas paixões:
 
-### 💡 [Assistente de Estudos com IA](https://github.com/feijaum/Portifolio/tree/main/Projetos/ProjetoFinalizado_3_IMERSA%CC%83OALURA) 
+### 💡 [Assistente de Estudos com IA](https://github.com/feijaum/Portifolio/tree/main/Projetos/ProjetoFinalizado_3_IMERSA%CC%83OALURA)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VniJD738IHsiIv6Idh26EdsiwaKwPOS9?usp=sharing)
 [![Alura](https://cursos.alura.com.br/assets/images/immersion/imersao_ia_google_logo.png)](https://cursos.alura.com.br/)
 
@@ -44,7 +44,7 @@ Acredito que a melhor forma de demonstrar conhecimento é através da prática. 
 * **Tecnologias:** Python, Tkinter (GUI), SQLite (Banco de Dados).
 * **Destaque:** Evidencia minha proficiência em desenvolvimento de aplicações CRUD, manipulação de dados em banco de dados e organização de código (separação entre frontend e backend).
 
-### 🐍 [Jogo da Cobrinha com Pygame](https://github.com/feijaum/Portifolio/tree/main/Projetos/ProjetoFinalizado_2_PYGAMETESTE) 
+### 🐍 [Jogo da Cobrinha com Pygame](https://github.com/feijaum/Portifolio/tree/main/Projetos/ProjetoFinalizado_2_PYGAMETESTE)
 
 * **Descrição:** Minha implementação clássica do popular jogo da cobrinha.
 * **Tecnologias:** Python, Pygame.
@@ -86,8 +86,9 @@ Vamos construir o futuro juntos!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Victor%20Leite%20de%20Lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvictorll/)
 [![GitHub](https://img.shields.io/badge/GitHub-feijaum-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feijaum/Portifolio)
 [![Email](https://img.shields.io/badge/Email-jvleite7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvleite7@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@prof.jvictor-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prof.jvictor/) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-João Victor-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5575991179238)
+[![Instagram](https://img.shields.io/badge/Instagram-@prof.jvictor-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prof.jvictor/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-João%20Victor-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5575991179238)
+
 ---
 
-by João Victor Leite de Lima
+Made with ❤️ by João Victor Leite de Lima
